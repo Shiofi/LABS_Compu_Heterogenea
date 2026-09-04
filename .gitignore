@@ -1,3 +1,11 @@
 # Binarios generados en Semana 3
 Semana_3/simd/matmul_avx2
 Semana_3/simd/matmul_scalar
+# Binarios generados en Semana 4
+/Semana 4/semana 3/threading/cpu-naive
+/Semana 4/semana 3/threading/cpu-affinity
+/Semana 4/semana 3/scaling/softmax_openmp
+/Semana 4/semana 3/scaling/matmul_tiled_openmp
+
+# Archivos generados al compilar bibliotecas
+/Semana 4/libraries/build/
